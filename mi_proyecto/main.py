@@ -13,3 +13,6 @@ sys.path.append(project_dir)
 
 # Importar y ejecutar otro_archivo.py
 from otro_directorio import otro_archivo
+
+otro_archivo.resultados()
+
